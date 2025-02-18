@@ -9,5 +9,3 @@ db/*.db
 .env
 .env.test
 
-# Build
-build
