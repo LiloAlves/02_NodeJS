@@ -9,7 +9,8 @@ db/*.db
 .env
 .env.test
 
-# BUILD
-build
+# Build files
+build/
+
 
 
